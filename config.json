@@ -7,5 +7,12 @@
         }
     },
     "styles": {},
-    "data": {}
+    "data": {
+        "countries": {
+            "mbtiles": "countries.mbtiles"
+        },
+        "capitals": {
+            "mbtiles": "capitals.mbtiles"
+        }
+    }
 }
